@@ -40,11 +40,11 @@ Creates a new user with random username and an user id
 
 2. `GET /users/{userid}`
 
-Get an user with a given user id
+Get a user with a given user id
 
 3. `GET /users/{username}`
 
-Get an user with a given username
+Get a user with a given username
 ```
 
 ### `posts` 
