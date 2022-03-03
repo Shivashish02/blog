@@ -12,7 +12,6 @@ function loadPosts() {
                   ${p.body}
                 </p>
                 <a href="#" class="card-link">Comment</a>
-                <a href="#" class="card-link">Like</a>
               </div>
             </div>
           </div>
