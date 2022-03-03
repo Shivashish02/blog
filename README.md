@@ -84,7 +84,8 @@ Required fields -
     postId=
     body=
 ```
+## Screenshots
 
+<img src="screenshots/Screenshot-1.png" width="700"/>
+<img src="screenshots/Screenshot-2.png" width="700"/>
 
-
-`The screenshots showcasing the working of the project are present within the screenshots folder`
