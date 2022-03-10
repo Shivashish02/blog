@@ -11,7 +11,6 @@ function loadPosts() {
               <p class="card-text">
                 ${p.body}
               </p>
-              <a href="#" class="card-link">Comment</a>
             </div>
           </div>
         </div>
