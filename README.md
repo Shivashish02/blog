@@ -1,4 +1,4 @@
-# Social Media Sample Project
+# Blog Project
 
 
 ## Project Structure
